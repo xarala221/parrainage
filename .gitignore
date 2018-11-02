@@ -35,12 +35,11 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+venv/
+VENV/
 .vscode
 .vscode/
-.venv/
-.venv
-venv/
-venv
+
 .deploy/
 .deploy
 deploy/
